@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body {
-    background-color: black;
+    /* background-color: black; */
 }
 li {
     list-style: none;
@@ -197,4 +197,19 @@ a {
 .div-black-se {
     width: 100%;
     background-color: rgba(0, 0, 0, 0.5);
+}
+.black-div {
+    width: 100%;
+    height: 500px;
+    background-color: black;
+}
+.section2-div {
+    /* width: 100%;
+    height: 700px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    margin-bottom: 400px; */
 }
